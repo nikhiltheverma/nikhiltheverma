@@ -17,13 +17,13 @@
 
 - 🤝 I’m looking for help with **Ethical Hacking & Cybersecurity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nikhilvermaaa](https://github.com/nikhilvermaaa) 
+- 👨‍💻 All of my projects are available at https://github.com/nikhilvermaaa 
 
-- 📝 I regularly write articles on [anikatana.blogspot.com](anikatana.blogspot.com) <img align="right" height="150" src="https://profile-readme-generator.com/assets/snake.svg"  />
+- 📝 I regularly Post on <a href="https://anikatana.blogspot.com" rel="nofollow">anikatana.blogspot.com</a> <img align="right" height="150" src="https://profile-readme-generator.com/assets/snake.svg"  />
 
 - 📫 How to reach me **nikhilvermaultimate@gmail.com**
 
-- 📄 More About Me [bit.ly/nikhilvermaaa](bit.ly/nikhilvermaaa)
+- 📄 More About Me <a href="https://bit.ly/nikhilvermaaa" rel="nofollow">bit.ly/nikhilvermaaa</a>
 
 - ⚡ Fun fact **Imma Multitasker**
 
