@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/nikhilvermaaa 
 
-- 📝 I regularly Post on <a href="https://anikatana.blogspot.com" rel="nofollow">anikatana.blogspot.com</a> <img align="right" height="150" src="https://profile-readme-generator.com/assets/snake.svg"  />
+- 📝 I don't Post on <a href="https://anikatana.blogspot.com" rel="nofollow">anikatana.blogspot.com</a> <img align="right" height="150" src="https://profile-readme-generator.com/assets/snake.svg"  />
 
 - 📫 How to reach me **nikhilvermaultimate@gmail.com**
 
