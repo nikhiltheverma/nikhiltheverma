@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **nikhilvermaultimate@gmail.com**
 
-- 📄 More About Me <a href="https://t.ly/nikhilverma" rel="nofollow">t.ly/nikhiltheverma</a>
+- 📄 More About Me <a href="https://bit.ly/NikhilTheVerma" rel="nofollow">bit.ly/nikhiltheverma</a>
 
 - ⚡ Fun fact **Imma Multitasker**
 
