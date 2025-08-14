@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **any type of activities**
 
-- 🤝 I’m looking for help with **Ethical Hacking & Cybersecurity**
+- 🤝 I’m looking for help with **Cloud Computing, Ethical Hacking & Cybersecurity**
 
 - 👨‍💻 All of my projects are available at https://github.com/nikhiltheverma 
 
